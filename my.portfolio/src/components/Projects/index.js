@@ -1,5 +1,12 @@
 import React from 'react';
-import './style.css';
+import '../style.css';
+import lyricity from './img/Lyricity.PNG';
+import codingQuiz from './img/coding.quiz.PNG';
+import latteDaa from './img/latte.Daa.PNG';
+import noteTaker from './img/Notetaker.PNG';
+import leesRept from './img/lees-reptile.PNG';
+
+
 
 class Projects extends React.Component {
     render() {
@@ -9,7 +16,7 @@ class Projects extends React.Component {
                 <div className="portProjects col-lg-12">
                     <div className="lyricityCont col-12">
                         <div className="clearProj">
-                            <img src={require('./img/Lyricity.PNG')} alt={"lyricity"} className="lyricityImg container-fluid" />
+                            <img src={lyricity} alt="lyricity" className="lyricityImg container-fluid" />
                             <h2 className="lyricityTitle font2 container-fluid">Lyricity</h2>
                             <p className="lyricityPar">This is Lyricity. My team and I created a web lyrics app that allows
                             a user to
@@ -34,7 +41,7 @@ class Projects extends React.Component {
                     </div>
                     <div className="codeQCont col-12">
                         <div className="clear">
-                            <img src={require('./img/coding.quiz.PNG')} alt={"Coding Quiz"} className="codeQImg container-fluid" />
+                            <img src={codingQuiz} alt={"Coding Quiz"} className="codeQImg container-fluid" />
                             <h2 className="codeQTitle font2 container-fluid">Coding Quiz</h2>
                             <p className="codeQPar">This is Coding Quiz. I created this web app for my Coding Bootcamp homework. This
                             web app allows the user to start a timed and scored coding quiz. The quiz has a series of 5 multiple
@@ -59,7 +66,7 @@ class Projects extends React.Component {
                     </div>
                     <div className="latteDCont col-12">
                         <div className="clearLatte">
-                            <img src={require('./img/latte.Daa.PNG')} alt={"Latte Daa"} className="latteDImg container-fluid" />
+                            <img src={latteDaa} alt={"Latte Daa"} className="latteDImg container-fluid" />
                             <h2 className="latteDTitle font2 container-fluid">Latte' Daa</h2>
                             <p className="latteDPar">This is Latte' Daa. I created this website for a local coffee stand in my area. On
                             their site a user will be able to see their home page which includes a navbar with the web links,
@@ -85,7 +92,7 @@ class Projects extends React.Component {
                     </div>
                     <div className="noteTakerCont col-12">
                         <div className="clearNote">
-                            <img src={require('./img/Notetaker.PNG')} alt={"Note Taker"} className="noteTakerImg container-fluid" />
+                            <img src={noteTaker} alt={"Note Taker"} className="noteTakerImg container-fluid" />
                             <h2 className="noteTakerTitle font2 container-fluid">Note Taker</h2>
                             <p className="noteTakerPar">This is Note Taker. This web app allows a small business owner to create, save,
                             view, and delete notes. The user will be directed to the homepage where they will need to click 'Get
@@ -104,7 +111,7 @@ class Projects extends React.Component {
                     </div>
                     <div className="leesReptCont col-12">
                         <div className="clearRept">
-                            <img src={require('./img/lees-reptile.PNG')} alt={"Lee's Reptile Emporium"} className="leesReptImg container-fluid" />
+                            <img src={leesRept} alt={"Lee's Reptile Emporium"} className="leesReptImg container-fluid" />
                             <h2 className="leesReptTitle font2 container-fluid">Lee's Reptile Emporium</h2>
                             <p className="leesReptPar">This is Lee's Reptile Emporium. Lee's Reptile Emporium is your one stop online
                             shop for new pets ranging from a 14 foot python to a 1 inch dart frog and
