@@ -186,7 +186,7 @@ height: 500px;
 }
 
 .codeLink2:hover{
-    color: lightcoral;
+    color: slategray;
 text-decoration: none;
 }
 
@@ -202,7 +202,7 @@ text-decoration: none;
 }
 
 .repoLink2:hover{
-    color: lightcoral;
+    color: slategray;
     text-decoration: none;
 }
 
@@ -243,7 +243,7 @@ IMG.latteDImg{
  }
 
  .codeLink3:hover{
-     color: lightcoral;
+     color: slategray;
      text-decoration: none;
  }
 
@@ -252,7 +252,7 @@ IMG.latteDImg{
  }
 
 .repoLink3:hover{
-    color: lightcoral;
+    color: slategray;
     text-decoration: none;
 }
 
@@ -271,7 +271,7 @@ text-decoration: none;
 }
 
 .resPdf:hover{
-    color: lightcoral;
+    color: slategray;
     text-decoration: none;
 }
 
@@ -393,12 +393,12 @@ IMG.noteTakerImg{
 }
 
 .codeLink4:hover{
-     color: lightcoral;
+     color: slategray;
      text-decoration: none;
  }
 
  .repoLink4:hover {
-     color: lightcoral;
+     color: slategray;
      text-decoration: none;
  }
 
@@ -446,7 +446,7 @@ IMG.leesReptImg {
 }
 
 .codeLink5:hover{
-     color: lightcoral;
+     color: slategray;
      text-decoration: none;
  }
 
@@ -458,7 +458,7 @@ IMG.leesReptImg {
  }
 
 .repoLink5:hover{
-    color: lightcoral;
+    color: slategray;
     text-decoration: none;
 }
 

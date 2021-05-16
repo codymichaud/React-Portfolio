@@ -40,41 +40,41 @@ class AboutMe extends React.Component {
                 starting out in my development career, I believe that my work will show the drive and passion I have for
                 web development. Thank you for your time. If you have any questions,
           head over to my <a href="./port.contact.html">contact</a> page.</article>
-                <div className="skills col-md-12 mx-auto text-center container-fluid row">
-                    <div className="languages col-md-2 row container-fluid text-center">
-                        <h2 className="skillsLangTitle">Languages</h2>
-                        <ul>
-                            <li>HTML5</li>
-                            <li>CSS3</li>
-                            <li>JavaScript</li>
-                            <li>jQuery</li>
-                            <li>Node.Js</li>
-                            <li>Express.Js</li>
-                            <li>NoSQL</li>
-                            <li>Sequelize</li>
-                            <li>Mongoose</li>
-                            <li>APIs</li>
-                            <li>Object-Oriented-programming (OOli)</li>
-                            <li>Object_Relational Mapping (ORM)</li>
-                            <li>Model-View-Controller (MVC)</li>
-                            <li>React.Js</li>
+                <div className="skills mx-auto row">
+                    <div className="languages col-md-2 row text-center">
+                        <ul className='row text-center col-md-2 mx-auto'>
+                            <h2 className="skillsLangTitle">Languages</h2>
+                            <p>HTML5</p>
+                            <p>CSS3</p>
+                            <p>JavaScript</p>
+                            <p>jQuery</p>
+                            <p>Node.Js</p>
+                            <p>Express.Js</p>
+                            <p>NoSQL</p>
+                            <p>Sequelize</p>
+                            <p>Mongoose</p>
+                            <p>APIs</p>
+                            <p>Object-Oriented-programming (OOp)</p>
+                            <p>Object_Relational Mapping (ORM)</p>
+                            <p>Model-View-Controller (MVC)</p>
+                            <p>React.Js</p>
                         </ul>
                     </div>
-                    <div className="tools col-md-2 row">
-                        <h2 className="skillsTools">Tools</h2>
-                        <ul>
-                            <li>MySQL</li>
-                            <li>Insomnia</li>
-                            <li>MongoDb</li>
-                            <li>JawsDB</li>
-                            <li>Robo3T</li>
-                            <li>Heroku</li>
-                            <li>Gitbash</li>
-                            <li>Github</li>
-                            <li>Websockets</li>
-                            <li>Socket.io</li>
-                            <li>Vanilla CSS</li>
-                            <li>Vs Code</li>
+                    <div className="tools col-md-2 row text-center mx-auto">
+                        <ul className='row text-center col-md-2 mx-auto'>
+                            <h2 className="skillsTools">Tools</h2>
+                            <p>MySQL</p>
+                            <p>Insomnia</p>
+                            <p>MongoDb</p>
+                            <p>JawsDB</p>
+                            <p>Robo3T</p>
+                            <p>Heroku</p>
+                            <p>Gitbash</p>
+                            <p>Github</p>
+                            <p>Websockets</p>
+                            <p>Socket.io</p>
+                            <p>Vanilla CSS</p>
+                            <p>Vs Code</p>
 
                         </ul>
                     </div>

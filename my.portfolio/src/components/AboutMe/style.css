@@ -186,7 +186,7 @@ height: 500px;
 }
 
 .codeLink2:hover{
-    color: lightcoral;
+    color: slategray;
 text-decoration: none;
 }
 
@@ -202,7 +202,7 @@ text-decoration: none;
 }
 
 .repoLink2:hover{
-    color: lightcoral;
+    color: slategray;
     text-decoration: none;
 }
 
@@ -566,7 +566,12 @@ padding-left: 10px;
     animation: animate 8s linear infinite;
 }
 
-.skills li {
+/* .skills p {
     align-content: center;
     display: flex;
+} */
+
+div{
+    background-color: black;
+    color: blanchedalmond;
 }
