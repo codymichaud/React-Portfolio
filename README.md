@@ -2,13 +2,9 @@
 
 ## Table of Contents
 -[Description](#description)
-
 -[Usage](#usage)
-
 -[Questions](#questions)
-
 -[Link](#link)
-
 -[Screenshot](#screenshot)
 
 ## Description
